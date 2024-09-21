@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Nikita!
+### 👋 Hi there, I'm Nikita!
 I'm a Full Stack Web Developer with a passion for building dynamic, responsive web applications. I enjoy turning ideas into real, working solutions through code, and I'm always looking to improve and learn new things in the world of development.
 
 ### 🛠️ Tech Stack
