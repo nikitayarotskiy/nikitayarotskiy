@@ -10,5 +10,4 @@ I'm a Full Stack Web Developer with a passion for building dynamic, responsive w
 
 ### 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/nikita-yarotskiy-19a08625a/)
-- [X](https://x.com/nikitayarotskiy)
 - [Email](mailto:nikeejsg@gmail.com)
