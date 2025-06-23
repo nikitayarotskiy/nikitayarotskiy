@@ -2,7 +2,7 @@
 I'm a Full Stack Web Developer with a passion for building dynamic, responsive web applications. I enjoy turning ideas into real, working solutions through code, and I'm always looking to improve and learn new things in the world of development.
 
 ### 🛠️ Tech Stack
-- **Languages:** JavaScript, TypeScript, Python, HTML, CSS
+- **Languages:** JavaScript, TypeScript, Python, HTML, CSS, Java
 - **Frontend:** React, Tailwind CSS, DaisyUI
 - **Backend:** Node.js, Express
 - **Databases:** MongoDB, MySQL, PostgreSQL
