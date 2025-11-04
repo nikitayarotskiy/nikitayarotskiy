@@ -6,6 +6,8 @@ I'm a Full Stack Web Developer with a passion for building dynamic, responsive w
 - **Frontend:** React, Tailwind CSS, DaisyUI
 - **Backend:** Node.js, Express
 - **Databases:** MongoDB, MySQL, PostgreSQL
+- **Cloud & Deployment:** Amazon Web Services (EC2, S3), Cloudflare (R2)
+- **Payment Integrations:** PayPal, Stripe
 - **Tools:** Git, Docker
 
 ### Connect with Me
