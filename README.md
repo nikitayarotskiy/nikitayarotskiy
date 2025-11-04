@@ -4,7 +4,7 @@ I'm a Full Stack Web Developer with a passion for building dynamic, responsive w
 ### Tech Stack
 - **Languages:** JavaScript, TypeScript, Python, HTML, CSS, Java
 - **Frontend:** React, Tailwind CSS, DaisyUI
-- **Backend:** Node.js, Express
+- **Backend:** Node.js, Express, Nginx
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Cloud & Deployment:** Amazon Web Services (EC2, S3), Cloudflare (R2)
 - **Payment Integrations:** PayPal, Stripe
